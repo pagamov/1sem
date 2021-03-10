@@ -1,5 +1,9 @@
 # 1sem
 
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
+
 
 <p align="justify">
   Lorem ipsum
